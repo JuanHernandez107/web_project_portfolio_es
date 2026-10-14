@@ -1,7 +1,7 @@
 # Portafolio - Juan Hernández
 
 ## Descripción
-Este es mi portafolio personal, un sitio web estático que muestra mis habilidades y proyectos destacados como desarrolladora web.
+Este es mi portafolio personal, un sitio web estático que muestra mis habilidades y proyectos destacados como desarrollador web.
 
 ## Tecnologías y técnicas utilizadas
 - HTML5
@@ -10,4 +10,4 @@ Este es mi portafolio personal, un sitio web estático que muestra mis habilidad
 - Figma (para el diseño)
 
 ## Enlace a GitHub Pages
-[https://JuanHernandez107.github.io/web_project_portfolio_es/](https://JuanHernandez107o.github.io/web_project_portfolio_es/)
+[https://juanhernandez107.github.io/web_project_portfolio_es/](https://juanhernandez107.github.io/web_project_portfolio_es/)
